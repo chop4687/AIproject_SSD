@@ -13,4 +13,6 @@
         <br>기존에 IMAGENET dataset을 학습한 VGG16의 parameter를 취사선택하여 사용한 뒤 위의 dataset을 이를 조정하였다.   
         <br><br>Testing
         <br> epoch를 약 5k 정도만 했음에도 어느정도는 물체를 잘 찾는 것으로 보인다.
+        <img src="images/good.png" width="300" height="300">
+        <img src="images/bad.png" width="300" height="300">
   </body>
