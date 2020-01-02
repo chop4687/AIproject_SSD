@@ -10,15 +10,14 @@
         <br>여기 링크1, 링크2 좀 따줘
         <br>또한, 우리는 기존에 SSD에 대해 잘 정리해 놓았던 github 두 사이트(<a href="https://arxiv.org/abs/1512.02325">링크1</a>, <a href="https://arxiv.org/abs/1512.02325">링크2</a>)를 참고하였다.
       
-      
-        <>
         <br><br>Datasets
         <br>우리는 우리의 취지에 맞게 COCO dataset 중 일부를 취한 COCO-mini-dataset(apple, orage 각 1,000장)을 생성하였다.
         
         <br><br>Parameter
         <br>기존에 IMAGENET dataset을 학습한 VGG16의 parameter를 취사선택하여 사용한 뒤 위의 dataset을 이를 조정하였다.
         
-        <br><br>
+        <br><br>Testing
+        <br> epoch를 약 5k 정도만 했음에도 어느정도는 물체를 잘 찾는 것으로 보인다.
       
       
         
