@@ -1,7 +1,6 @@
-# Hello
+# SSD을 실생활에 적용하기 위한 Fine Tuning
 <!DOCTYPE html>
   <head>
-    <title><p>SSD을 실생활에 적용하기 위한 Fine Tuning</p></title>      
   </head>
   <body>
         <a href="https://arxiv.org/abs/1512.02325">SSD</a>는 현재 널리 알려지고 사용되고 있는 Object Detection System 중 하나이다.
